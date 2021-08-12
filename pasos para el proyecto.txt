@@ -1,0 +1,4 @@
+-instalar los modulos(npm i)
+-importar la base de datos
+-ejecutar el servidor: npm run dev
+-ejecutar el cliente: npm start
